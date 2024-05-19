@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Web Development sector & I want to learn beyond this.
 - 🌱 I’m currently learning front-end technologies & pursuing my bachelor's in CSE
 - 💞️ I’m looking to work on some new projects.
-- 📫 How to reach me? (sabbirbhuiyan427@gmail.com) mail here.
+- 📫 How to reach me? (sabbirbhuiyan026@gmail.com) mail here.
 - 😄 Pronouns: --....
 - ⚡ Fun fact: The more we know about something. The more we know how much we don't know.
 
