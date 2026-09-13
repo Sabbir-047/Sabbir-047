@@ -1,4 +1,12 @@
 # 💫 About Me:
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sabbir Bhuiyan
+=======================================================================================================================================
+
+Frontend Developer
+------------------
+
+
 🔭 I’m currently working on frontend technologies<br>👯 I’m looking to collaborate on development projects<br>🤝 I’m looking for help with backend technologies<br>🌱 I’m currently learning the React.js library<br>💬 This is just the starter; you can ask me what you want.<br>⚡ Fun fact: I love myself
 
 
